@@ -6,7 +6,7 @@ public class ColorBehaviour : MonoBehaviour
 {
     private Material material;
 
-    void Start()
+    private void Start()
     {
         material = GetComponent<MeshRenderer>().sharedMaterial;
 
@@ -14,8 +14,7 @@ public class ColorBehaviour : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
     }
 }
