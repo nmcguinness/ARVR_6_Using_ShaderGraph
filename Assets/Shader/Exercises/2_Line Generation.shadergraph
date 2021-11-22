@@ -34,7 +34,11 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "9f07d50725a3402ba2ad8e3b9c28f597"
+        }
+    ],
     "m_Edges": [],
     "m_VertexContext": {
         "m_Position": {
@@ -408,6 +412,26 @@
     },
     "m_Labels": [],
     "m_Space": 0
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "9f07d50725a3402ba2ad8e3b9c28f597",
+    "m_Title": "Exercise",
+    "m_Content": "Create a shadergraph to generate a vertical red line against a black background. Apply this line as the Base Color in the Fragment Shader. \n\nExtra:\n- The lines position and color should be modifiable through exposed properties.\n- The lines thickness should be modifiable though an exposed property using a slider with a reasonable [min,max] range and default value.\n",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -93.33333587646485,
+        "y": -392.6666564941406,
+        "width": 313.33331298828127,
+        "height": 339.3333435058594
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {

@@ -34,7 +34,11 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "9bcb95175c4c490fb42f0714134277f5"
+        }
+    ],
     "m_Edges": [],
     "m_VertexContext": {
         "m_Position": {
@@ -374,6 +378,26 @@
         "g": 0.0,
         "b": 0.0,
         "a": 1.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "9bcb95175c4c490fb42f0714134277f5",
+    "m_Title": "Exercise",
+    "m_Content": "Create a shadergraph to project a snow/rock/grass texture only onto the upwarding facing surfaces of a rock. When the rock is rotated the texture should still only project onto the upward facing surfaces of the rock.\n\nHint\n- You will need the following nodes: Position, Normal Vector, Dot Product, UV, Comparison, Branch, Split, Vector 2, Sample Texture 2D",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -124.0,
+        "y": -312.0,
+        "width": 344.0,
+        "height": 292.66668701171877
+    },
+    "m_Group": {
+        "m_Id": ""
     }
 }
 
