@@ -2,7 +2,11 @@
     "m_SGVersion": 2,
     "m_Type": "UnityEditor.ShaderGraph.GraphData",
     "m_ObjectId": "66c411130b3843fab455ec695aa2ab50",
-    "m_Properties": [],
+    "m_Properties": [
+        {
+            "m_Id": "46a41edabfcd4fdc8b115b178b8cef89"
+        }
+    ],
     "m_Keywords": [],
     "m_Nodes": [
         {
@@ -348,9 +352,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2276.666748046875,
-            "y": 1064.0,
-            "width": 208.0,
+            "x": -2342.0,
+            "y": 1004.6666870117188,
+            "width": 208.00001525878907,
             "height": 278.0
         }
     },
@@ -652,10 +656,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1978.247314453125,
-            "y": 1084.8424072265625,
-            "width": 116.0,
-            "height": 149.0
+            "x": -2001.33349609375,
+            "y": 1004.6666870117188,
+            "width": 120.00000762939453,
+            "height": 148.6666259765625
         }
     },
     "m_Slots": [
@@ -746,6 +750,29 @@
     "m_Labels": [
         "X"
     ]
+}
+
+{
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector2ShaderProperty",
+    "m_ObjectId": "46a41edabfcd4fdc8b115b178b8cef89",
+    "m_Guid": {
+        "m_GuidSerialized": "27047dce-117c-4167-aa30-5231f7e9be6b"
+    },
+    "m_Name": "Tile Rate",
+    "m_DefaultReferenceName": "Vector2_46a41edabfcd4fdc8b115b178b8cef89",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 0.0,
+        "w": 0.0
+    }
 }
 
 {
@@ -1264,10 +1291,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1822.247314453125,
-            "y": 1085.8424072265625,
-            "width": 120.99999237060547,
-            "height": 124.99999237060547
+            "x": -1845.33349609375,
+            "y": 1005.3333740234375,
+            "width": 128.0,
+            "height": 124.66663360595703
         }
     },
     "m_Slots": [
