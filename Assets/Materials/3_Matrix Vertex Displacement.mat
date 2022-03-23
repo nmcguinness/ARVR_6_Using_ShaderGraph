@@ -34,4 +34,5 @@ Material:
     m_Floats: []
     m_Colors:
     - Vector4_f1f3f215475b4c73872b4ba923e7fcc3: {r: 0, g: 0, b: 0, a: 0}
+    - _Translation: {r: 0, g: 0.19807763, b: 0, a: 0}
   m_BuildTextureStacks: []

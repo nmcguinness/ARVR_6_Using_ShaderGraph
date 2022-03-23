@@ -34,5 +34,7 @@ Material:
     m_Floats:
     - Vector1_82f7046fbee74841a3944a9ea7e40a75: 4
     - Vector1_ab51b418712b4940994dea6c9d223619: 0.5
+    - _Amplitude: 1
+    - _AngularSpeed: 2
     m_Colors: []
   m_BuildTextureStacks: []
