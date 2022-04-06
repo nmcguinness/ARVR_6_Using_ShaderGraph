@@ -335,7 +335,11 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "5999fe97ea344ae0bcd4dc79bbc47ae7"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -4727,6 +4731,26 @@
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "5999fe97ea344ae0bcd4dc79bbc47ae7",
+    "m_Title": "OCEAN shader with Unity Shader Graph",
+    "m_Content": "https://youtu.be/FbTAbOnhRcI",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -2267.0,
+        "y": -808.0,
+        "width": 417.0,
+        "height": 102.0
+    },
+    "m_Group": {
+        "m_Id": ""
     }
 }
 

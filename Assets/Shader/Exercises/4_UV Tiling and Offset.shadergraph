@@ -1149,7 +1149,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Rotation",
     "m_StageCapability": 3,
-    "m_Value": 180.0,
+    "m_Value": 3.5399999618530275,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
